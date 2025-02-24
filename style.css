@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 5%;
+    background-color: #e9e5e5;
+    line-height: 1.5;
+}
+
+header {
+    background: url('https://www.bing.com/th/id/OGC.36e4d0b856694fc471344b644a1dd6e4?pid=1.7&rurl=https%3a%2f%2fmedia2.giphy.com%2fmedia%2fxT4uQF7h39mlsF5czK%2fgiphy.gif&ehk=99ZyshwG6yp7e6cx7sG7cz93yEZk2tRtulIGjcAHDaw%3d');
+    height: 200px;
+    background-size: cover;
+    color: #fff;
+    padding: 1rem 0;
+    text-align: center;
+}
+
+
+
+footer {
+    text-align: center;
+    padding: 1rem 0;
+    background-color: #333;
+    color: #fff;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+
+#sobreMI:hover, #Experiencia:hover, #Educacion:hover, #Skills:hover, #Contacto:hover{
+    cursor: url("https://cdn-icons-png.flaticon.com/128/6001/6001765.png") 50 50 ,pointer; 
+}
+
